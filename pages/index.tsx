@@ -25,7 +25,7 @@ const Home: NextPage = () => {
                     <a>Login</a>
                 </Link>
 
-                <Link href="/api/auth/login">
+                <Link href="/api/auth/logout">
                     <a>Logout</a>
                 </Link>
 
